@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contenedor{
+    width: 1200px;
+    height: 1000px;
+    background: rosybrown;
+    margin: 0.5em auto;
+    padding: 0.5em;
+}
+.Encabezado{
+    height: 15%;
+    background: #FF0000;
+    border-radius: 1em;
+    margin: 1em;
+    text-align: center;
+}
+.Titulo{
+    height: 10%;
+    background: #FF0000;
+    border-radius: 1em;
+    margin: 1em;
+    text-align: center;
+}
+.contenido{
+    height: 53%;
+    background: red;
+}
+.Pie{
+    height: 15%;
+    background: red;
+    border-radius: 1em;
+    margin: 1em;
+    text-align: center;
+}
+.menu{
+    height: 95%;
+    width: 25%;
+    background: red;
+    border-radius: 1em;
+    float:left;
+    margin-left: 0.5em;
+    text-align: center;
+}
+.contenidoxd{
+    height: 95%;
+    width: 71%;
+    background: orangered;
+    border-radius: 1em;
+    float: right;
+    margin-right: 0.5em;
+    text-align: center;
+}
+.articulo{
+    width: 90%;
+    height: 20%;
+    background: rgb(184, 16, 100);
+    margin: 5em;
+    border-radius:5em;
+}
